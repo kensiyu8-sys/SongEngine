@@ -101,3 +101,12 @@ The source tree is prepared for a repository, but no repository or public releas
 - Models/projects consume space: close the app before manually archiving/deleting dated run folders you no longer need; retain saved projects and their referenced previews.
 
 Upstream: https://github.com/SYSTRAN/faster-whisper | https://github.com/openai/whisper
+
+
+## Buy me a kopi ☕
+
+If SongEngine saved you some time, you can optionally
+support its development. The app remains free to use.
+
+<img src="docs/support/coffee-qr.png"
+     alt="Optional coffee donation QR code" width="220">
